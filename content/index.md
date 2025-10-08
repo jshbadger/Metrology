@@ -22,3 +22,7 @@ What methods of measurement are used in astronomy, biomedicine, and so on?
 This website uses [Quartz](https://github.com/jackyzha0/quartz) to display the content. See the [documentation](https://quartz.jzhao.xyz) for how to make your own shared notes system.
 # Contact
 You can reach out directly to me [on my website](https://jacobstewart.org/contact/).
+# Disclosure
+I am not perfect. This does not excuse my mistakes. Instead, it is a warning that everything you read on this website should not be taken for granted. The reader is encouraged to be a critical thinker and verify any necessary information. I will try my best to provide citations and indicate when something is my opinion rather than an observed fact, but I may neglect to do so.
+
+If you see something that looks wrong, feel free to [contact me](https://jacobstewart.org/contact/). Feedback is a powerful tool for accuracy.
