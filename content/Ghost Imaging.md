@@ -3,7 +3,7 @@ title: Ghost Imaging
 draft: true
 tags:
 ---
-Confidence: 1
+*Confidence: 1*
 # Background
 There are no ghosts here, but there may be some spooky action at a distance.
 
